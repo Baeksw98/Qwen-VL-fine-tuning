@@ -1,0 +1,10 @@
+# Ignore cache and environment folders 
+hf_cache/
+qwen_test/
+
+#Ignore output folders
+output_qwen/
+
+# Ignore simsun file to be added
+SimSun.ttf
+
